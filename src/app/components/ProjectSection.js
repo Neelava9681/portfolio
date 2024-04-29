@@ -48,7 +48,7 @@ const projectsData = [
     description: "I am used Tenserflow, Keras and opencv for build this project",
     image: "/images/final_year_project.jpg",
     tag: ["All", "AI"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Neelava9681/Driver_Drowsiness_detection_system.git",
     previewUrl: "/",
   },
   {
