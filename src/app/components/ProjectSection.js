@@ -26,6 +26,15 @@ const projectsData = [
   },
   {
     id: 3,
+    title: "Food delivery website",
+    description: "I am used Mern Stack for build this project",
+    image: "/images/food.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/Neelava9681/Food_shop.git",
+    previewUrl: "https://foodshop-frontend.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Weather Forecast website",
     description: "I am used React for build this project",
     image: "/images/weather_forecast.png",
@@ -34,7 +43,7 @@ const projectsData = [
     previewUrl: "https://weatherappallcitys.netlify.app",
   },
   {
-    id: 4,
+    id: 5,
     title: "Library_system",
     description: "I am used MERN stack for build this project",
     image: "/images/add_book.png",
@@ -43,7 +52,7 @@ const projectsData = [
     previewUrl: "https://addbookscardanyonecanvisit.netlify.app",
   },
   {
-    id: 5,
+    id: 6,
     title: "Driver Drowsiness Detection System",
     description: "I am used Tenserflow, Keras and opencv for build this project",
     image: "/images/final_year_project.jpg",
@@ -52,7 +61,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Changing color by buttons",
     description: "I am used Mern Stack for build this project",
     image: "/images/color_buttons.png",
@@ -60,6 +69,7 @@ const projectsData = [
     gitUrl: "https://github.com/Neelava9681/Changing_colors_by_buttons.git",
     previewUrl: "https://colorchangingbuttons.netlify.app",
   },
+ 
 ];
 
 const ProjectSection = () => {
